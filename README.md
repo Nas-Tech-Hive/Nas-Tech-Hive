@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front End Developer
 --------------------------
 
-I'm an emerging front-end developer with a growing skill set in HTML, CSS, and vanilla JavaScript, developed through hands-on projects and dedicated coursework. I'm now diving into React, and soon expanding into the backend with Node.js, Express.js, SQL, and more — all part of my journey to becoming a full stack developer this year. I’ve got big ideas and can’t wait to bring them to life. This is just the beginning.
+I'm an emerging front-end developer with a growing skill set in HTML, CSS, and JavaScript, developed through hands-on projects and dedicated coursework. I'm now diving into React, and soon expanding into the backend with Node.js, Express.js, SQL, and more — all part of my journey to becoming a full stack developer this year. I’ve got big ideas and can’t wait to bring them to life. This is just the beginning.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [nassimevf1@gmail.com](mailto:nassimevf1@gmail.com)
